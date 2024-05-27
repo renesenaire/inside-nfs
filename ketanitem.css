@@ -41,3 +41,16 @@ nav li {
  text-align: center;
  padding: 30px 30px;
 }
+
+ul#menu li {
+ display: inline;
+}
+
+ul { 
+ list-style-type: none;
+}
+
+li { 
+ float: center;
+}
+
