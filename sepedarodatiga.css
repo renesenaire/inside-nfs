@@ -5,12 +5,14 @@ body {
 h1 {
  font-family: Georgia-serif;
  font-size: 40px;
+ text-align: center;
 }
 
 h2 {
  font-family: Georgia, serif;
  font-size: 40px;
-}
+ text-align: center;
+} 
 
 ul#menu li {
  display: inline;
@@ -27,11 +29,13 @@ li {
 p, p3, p5, p7 {
  font-family: Georgia, serif;
  font-size; 25px;
+ text-align: center;
 }
 
 p2, p4, p6, p8 { 
  font-family: Optima, sans-serif;
  font-size; 20px;
+ text-align: center;
 }
 
 nav ul {
