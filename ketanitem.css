@@ -2,6 +2,18 @@ body {
  background-image: url('backgroundsa.jpeg');
 }
 
+ul#menu li {
+ display: inline;
+}
+
+ul { 
+ list-style-type: none;
+}
+
+li { 
+ float: center;
+}
+
 h2 {
  font-family: Georgia-serif;
  color: black;
