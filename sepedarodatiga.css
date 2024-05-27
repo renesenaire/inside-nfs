@@ -26,13 +26,13 @@ li {
  float: center;
 }
 
-p, p3, p5, p7 {
+p {
  font-family: Georgia, serif;
  font-size: 25px;
  text-align: center;
 }
 
-p2, p4, p6, p8 { 
+p1 { 
  font-family: Optima, sans-serif;
  font-size: 20px;
  text-align: center;
