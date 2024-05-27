@@ -2,23 +2,16 @@ body {
  background-image: url('backgroundsa.jpeg');
 }
 
-h2 {
- font-family: Georgia-serif;
- color: black;
- font-size: 40px;
- text-align: center;
+ul#menu li {
+ display: inline;
 }
 
-p {
- font-family: Optima, sans-serif;
- color: black;
- font-size: 20px;
- text-align: center;
+ul { 
+ list-style-type: none;
 }
 
-a {
-padding: 80px;
-background-color: white;
+li { 
+ float: center;
 }
 
 nav ul {
@@ -42,15 +35,21 @@ nav li {
  padding: 30px 30px;
 }
 
-ul#menu li {
- display: inline;
+h2 {
+ font-family: Georgia-serif;
+ color: black;
+ font-size: 40px;
+ text-align: center;
 }
 
-ul { 
- list-style-type: none;
+p {
+ font-family: Optima, sans-serif;
+ color: black;
+ font-size: 20px;
+ text-align: center;
 }
 
-li { 
- float: center;
+a {
+padding: 80px;
+background-color: white;
 }
-
