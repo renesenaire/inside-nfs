@@ -15,7 +15,7 @@ li {
 }
 
 h2 {
- font-family: Georgia-serif;
+ font-family: 'Lucida Grande', monospace;
  color: black;
  font-size: 40px;
  text-align: center;
@@ -41,7 +41,7 @@ nav ul {
 
 nav li {
  display: inline;
- font-family: Georgia, serif;
+ font-family: optima, sans-serif;
  color: Black;
  font-size: 15px;
  display: block;
