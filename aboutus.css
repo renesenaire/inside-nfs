@@ -1,5 +1,7 @@
 body {
  background-image: url('backgroundsa.jpeg');
+ background-attachment: fixed;
+ background-size: cover;
 }
 
 ul#menu li {
